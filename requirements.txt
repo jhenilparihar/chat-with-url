@@ -8,3 +8,4 @@ libmagic==1.0
 python-magic
 python-magic-bin
 OpenAI == 0.28.0
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
